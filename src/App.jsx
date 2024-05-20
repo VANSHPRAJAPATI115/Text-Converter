@@ -3,6 +3,8 @@
 import Navber from './Navber'
 import TextForm from './TextForm'
 
+import Footer from './Footer';
+
 function App(){
 
   return (
@@ -12,6 +14,7 @@ function App(){
      <TextForm heading="TEXT ANALYZE"/>
 
      </div>
+     <Footer/>
     </>
   )
 }

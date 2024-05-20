@@ -35,6 +35,19 @@ a{
 }
 
 /* Additional styles can be added as needed */
+/* Footer custom styling */
+.footer-link {
+  color: #ffc107; /* Change link color */
+}
+
+.footer-link:hover {
+  text-decoration: none;
+  color: #ffcd39; /* Change link color on hover */
+}
+
+.form-label {
+  margin-bottom: 0.5rem; /* Adjust label margin */
+}
 
 
 
