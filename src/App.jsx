@@ -3,7 +3,7 @@
 import Navber from './Navber'
 import TextForm from './TextForm'
 
-import Footer from './Footer';
+// import Footer from './Footer';
 
 function App(){
 
