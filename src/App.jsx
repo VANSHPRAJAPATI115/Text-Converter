@@ -14,7 +14,7 @@ function App(){
      <TextForm heading="TEXT ANALYZE"/>
 
      </div>
-     <Footer/>
+     {/* <Footer/> */}
     </>
   )
 }
